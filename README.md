@@ -11,16 +11,16 @@ To write a python program to find the rank of a matrix
 ### Step 4: end the program
 ## Program:
 ```
-Program to find the rank of a matrix.
-#Developed by: R.KARTHIKEYAN
-#RegisterNumber:22002525
+#Program to find the rank of a matrix.
+#Developed by: Dhanush.G
+#RegisterNumber:2305002006
 import numpy as np
 A = np.array([[3,2,5],[1,1,2],[3,3,6]])
 B = np.linalg.matrix_rank(A)
 print(B)
 ```
 ## Output:
-![Screenshot 2024-04-12 140312](https://github.com/Dhanushmukesh/RANK-OF-A-MATRIX/assets/155508176/4589c42c-78af-4ca7-aab3-90a1764203df)
+![Screenshot 2024-05-28 083229](https://github.com/Dhanushmukesh/RANK-OF-A-MATRIX/assets/155508176/d3bca3bf-d87b-4e32-b9ee-82d49574e419)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
